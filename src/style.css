@@ -1,1 +1,29 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background: green;
+}
+.card {
+  margin: 50px auto;
+  border: 2px solid gray;
+  border-radius: 25px;
+  height: 600px;
+  width: 400px;
+}
+.icon {
+  height: 25%;
+  font-size: 85px;
+  margin-right: 230px;
+}
+.num {
+  height: 50%;
+  font-size: 85px;
+  padding-top: 75px;
+}
+.iconreflex {
+  height: 25%;
+  font-size: 85px;
+  bottom: 20px;
+  right: 20px;
+  margin-left: 230px;
+}
